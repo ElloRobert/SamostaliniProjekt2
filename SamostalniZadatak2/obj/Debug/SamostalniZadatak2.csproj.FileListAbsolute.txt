@@ -1,0 +1,24 @@
+C:\Users\Students\Desktop\Ello RPA\SamostalniZadatak2\obj\Debug\SamostalniZadatak2.csproj.AssemblyReference.cache
+C:\Users\Students\Desktop\Ello RPA\SamostalniZadatak2\obj\Debug\SamostalniZadatak2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Students\Desktop\Ello RPA\SamostalniZadatak2\obj\Debug\SamostalniZadatak2.csproj.CoreCompileInputs.cache
+C:\Users\Students\Desktop\Ello RPA\SamostalniZadatak2\bin\Debug\SamostalniZadatak2.exe.config
+C:\Users\Students\Desktop\Ello RPA\SamostalniZadatak2\bin\Debug\SamostalniZadatak2.exe
+C:\Users\Students\Desktop\Ello RPA\SamostalniZadatak2\bin\Debug\SamostalniZadatak2.pdb
+C:\Users\Students\Desktop\Ello RPA\SamostalniZadatak2\obj\Debug\SamostalniZadatak2.exe
+C:\Users\Students\Desktop\Ello RPA\SamostalniZadatak2\obj\Debug\SamostalniZadatak2.pdb
+C:\Users\rober\Desktop\Projekti\c#\SamostalniZadatak2\SamostalniZadatak2\bin\Debug\SamostalniZadatak2.exe.config
+C:\Users\rober\Desktop\Projekti\c#\SamostalniZadatak2\SamostalniZadatak2\bin\Debug\SamostalniZadatak2.exe
+C:\Users\rober\Desktop\Projekti\c#\SamostalniZadatak2\SamostalniZadatak2\bin\Debug\SamostalniZadatak2.pdb
+C:\Users\rober\Desktop\Projekti\c#\SamostalniZadatak2\SamostalniZadatak2\obj\Debug\SamostalniZadatak2.csproj.AssemblyReference.cache
+C:\Users\rober\Desktop\Projekti\c#\SamostalniZadatak2\SamostalniZadatak2\obj\Debug\SamostalniZadatak2.csproj.SuggestedBindingRedirects.cache
+C:\Users\rober\Desktop\Projekti\c#\SamostalniZadatak2\SamostalniZadatak2\obj\Debug\SamostalniZadatak2.csproj.CoreCompileInputs.cache
+C:\Users\rober\Desktop\Projekti\c#\SamostalniZadatak2\SamostalniZadatak2\obj\Debug\SamostalniZadatak2.exe
+C:\Users\rober\Desktop\Projekti\c#\SamostalniZadatak2\SamostalniZadatak2\obj\Debug\SamostalniZadatak2.pdb
+C:\Users\rober\Desktop\Projekti\c#\SamostalniZadatak2\obj\Debug\SamostalniZadatak2.csproj.AssemblyReference.cache
+C:\Users\rober\Desktop\Projekti\c#\SamostalniZadatak2\obj\Debug\SamostalniZadatak2.csproj.SuggestedBindingRedirects.cache
+C:\Users\rober\Desktop\Projekti\c#\SamostalniZadatak2\obj\Debug\SamostalniZadatak2.csproj.CoreCompileInputs.cache
+C:\Users\rober\Desktop\Projekti\c#\SamostalniZadatak2\obj\Debug\SamostalniZadatak2.exe
+C:\Users\rober\Desktop\Projekti\c#\SamostalniZadatak2\obj\Debug\SamostalniZadatak2.pdb
+C:\Users\rober\Desktop\Projekti\c#\SamostalniZadatak2\bin\Debug\SamostalniZadatak2.exe.config
+C:\Users\rober\Desktop\Projekti\c#\SamostalniZadatak2\bin\Debug\SamostalniZadatak2.exe
+C:\Users\rober\Desktop\Projekti\c#\SamostalniZadatak2\bin\Debug\SamostalniZadatak2.pdb
